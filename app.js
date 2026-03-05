@@ -1,1 +1,1 @@
-console.log("Sitio base inicializado");
+// Base entry point for future site scripts.
