@@ -21,6 +21,8 @@ python3 -m http.server 5500
 
 2. Abrir en el navegador:
 
-```
+```text
 http://localhost:5500
 ```
+
+Tambien se puede abrir `index.html` directamente en el navegador para una vista rapida.
